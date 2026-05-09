@@ -33,7 +33,7 @@
 - **无需任何 Python 包或第三方工具**
 - Windows 用户使用自动模式时需用 Task Scheduler 替代 crontab（skill 会引导配置）
 
-## 安装
+## 安装教程
 
 ### Cowork（Claude 桌面应用）
 
