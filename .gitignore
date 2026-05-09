@@ -1,0 +1,15 @@
+# Work records - user's personal data, don't commit
+工作记录/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
